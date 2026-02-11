@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Jesi 👋
 
-<!--
-**Jesichinnathambi/Jesichinnathambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Final Year Student (CGPA: 8.5)  
+💻 Interested in Software Development & Machine Learning  
+🌱 Currently building projects to strengthen my technical skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 Grocery Maintenance System (Python)
+A billing and inventory management system built using Python.  
+Features:
+- Stock management  
+- Bill generation  
+- Inventory tracking  
+
+### 🔹 Tour & Travel Management System
+Responsive web application built using HTML, CSS, and JavaScript.  
+Features:
+- Tour package listing  
+- Booking interface  
+- Form validation  
+
+### 🔹 AI-Based Fetal Health Prediction (Planned 🚧)
+Planning to develop a Machine Learning model to classify fetal health conditions.
+
+---
+
+## 💼 Internship Experience
+
+- Web Development Intern – Utthunga Technologies (Bangalore)  
+- JavaScript Intern – Immaculate Technologies (Salem)  
+
+---
+
+## 🛠 Skills
+
+- Python
+- C (Basics)
+- HTML, CSS, JavaScript
+- MS Excel & Word
+- VS Code
+
+---
+
+## 📫 Connect With Me
+
+- Email: jesichinnathambi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jesichinnathambi2004
